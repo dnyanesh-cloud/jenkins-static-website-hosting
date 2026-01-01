@@ -93,7 +93,7 @@ EOF
   http://<leve-server-ip>
   ```
 - Static website should be live 🎉
-<img src="" width="600">
+<img src="lived-website.png" width="600">
 
 ---
 
